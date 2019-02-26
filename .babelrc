@@ -1,0 +1,5 @@
+// This is how we tell babel what presets to use
+{
+    "presets":["@babel/preset-env","@babel/preset-react"],
+    "plugins":["transform-class-properties"]
+}
